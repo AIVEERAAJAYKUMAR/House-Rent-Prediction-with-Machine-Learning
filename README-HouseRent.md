@@ -10,7 +10,7 @@ An end-to-end machine learning project that predicts house rental prices using L
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
-- [Results](#results)
+- [Results](##results)
 - [Visualizations](#visualizations)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
