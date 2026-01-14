@@ -3,7 +3,7 @@
 An end-to-end machine learning project that predicts house rental prices using LSTM (Long Short-Term Memory) neural networks. The model analyzes various housing features to provide accurate rent predictions across different Indian cities.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
+- [Overview](##overview)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
