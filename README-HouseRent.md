@@ -263,27 +263,14 @@ The project includes several interactive visualizations:
 - [ ] Add anomaly detection for outlier prices
 - [ ] Implement cross-validation for robust evaluation
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
 **Veera Ajay Kumar Angajala**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- Email: ajay01.jobs@gmail.com
+- LinkedIn: [Veera Angajala](https://linkedin.com/in/yourprofile)
+
 
 ## 🙏 Acknowledgments
 
